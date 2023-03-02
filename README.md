@@ -13,8 +13,9 @@ O sistema deve permitir as seguintes operações:
 * Atualizar as informações de um produto existente no estoque
 * Consultar informações sobre um produto específico
 * Listar todos os produtos disponíveis no estoque
+* Realizar venda de um produto do estoque
 
 O código deve ser organizado em classes e métodos, seguindo boas práticas de programação orientada a objetos. Além disso, deve ser feita a utilização de estruturas de dados adequadas para armazenar as informações dos produtos em estoque.
 
 ### Como utilizar
-Para utilizar o sistema de estoque, é necessário baixar o código fonte e executá-lo em uma IDE compatível com Java. Após executar o código, o usuário poderá interagir com o sistema através de um menu de opções que será exibido na tela.
+Para utilizar o sistema de estoque, é necessário baixar o código fonte e executá-lo em uma IDE compatível com Java. Após isso você pode manipular os metodos na classe main para realizar as ações que desejar.
